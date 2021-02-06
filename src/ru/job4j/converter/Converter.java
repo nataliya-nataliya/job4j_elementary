@@ -9,13 +9,13 @@ public class Converter {
 
         return value / 60;
     }
-
     /*public static void main(String[] args) {
         int euro = Converter.rubleToEuro(140);
         int dollar = Converter.rubleToDollar(140);
         System.out.println("140 rubles are " + euro + " euro.");
         System.out.println("140 rubles are " + dollar + " dollars.");
     }*/
+
     public static void main(String[] args) {
         int in = 140;
         int expected = 2;
