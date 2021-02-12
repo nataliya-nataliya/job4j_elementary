@@ -1,5 +1,6 @@
 package ru.job4j.loop;
 
+
 import org.junit.Test;
 
 import static org.hamcrest.Matchers.is;
@@ -27,4 +28,5 @@ public class CounterTest {
         int expected = 0;
         assertThat(rsl, is(expected));
     }
+
 }
