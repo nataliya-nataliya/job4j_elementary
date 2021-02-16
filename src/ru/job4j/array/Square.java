@@ -11,7 +11,6 @@ public class Square {
         return rst;
     }
 
-
     public static void main(String[] args) {
         int[] array = calculate(4);
     }
