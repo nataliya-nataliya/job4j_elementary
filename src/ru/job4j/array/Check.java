@@ -8,7 +8,6 @@ public class Check {
                 result = false;
                 break;
             }
-            else result = true;
         }
         return result;
     }
