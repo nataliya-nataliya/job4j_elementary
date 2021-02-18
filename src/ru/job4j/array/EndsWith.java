@@ -9,5 +9,6 @@ public class EndsWith {
         }
         /* проверить. что массив word имеет последние элементы одинаковые с post */
         return result;
+
     }
 }
