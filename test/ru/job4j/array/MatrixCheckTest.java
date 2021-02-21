@@ -6,7 +6,6 @@ import static org.junit.Assert.assertThat;
 
 public class MatrixCheckTest {
 
-
     @Test
     public void whenHasMonoHorizontal() {
         char[][] input = {
