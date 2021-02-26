@@ -1,6 +1,5 @@
 package ru.job4j.loop;
 
-
     public class Board {
         public static void paint(int width, int height) {
             for (int row = 0; row < height; row++) {

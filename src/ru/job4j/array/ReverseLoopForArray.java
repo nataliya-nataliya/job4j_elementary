@@ -8,7 +8,6 @@ public class ReverseLoopForArray {
                 System.out.println(
                         "Текущий четный элемент массива начиная с последнего: "
                                 + numbers[numbers.length - 1 - i]
-
                 );
             }
         }
